@@ -65,3 +65,16 @@ Government officer:
 - Data is **in-memory only** — resets on server restart
 - No MongoDB, no `.env`, no URI needed
 - No bcrypt — password comparison is plain string match (for demo)
+
+- Documentation
+
+Detailed Software Requirements Specification (SRS) is available in the project documentation folder.
+
+* TaxTrack_SRS.pdf
+
+- Author
+
+Radha Mishra
+
+B.Tech Computer Science Engineering
+
